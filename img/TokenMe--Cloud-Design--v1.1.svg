@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="-36.5 59.5 421 229" >
+  <defs/>
+  <g id="compact" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>compact</title>
+    <rect fill="white" x="-36.5" y="59.5" width="421" height="229"/>
+    <g id="compact_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_1280">
+        <path d="M -22 72 L 370 72 C 371.10457 72 372 72.89543 372 74 L 372 274 C 372 275.10457 371.10457 276 370 276 L -22 276 C -23.10457 276 -24 275.10457 -24 274 L -24 74 C -24 72.89543 -23.10457 72 -22 72 Z" fill="#c0ffff"/>
+        <path d="M -22 72 L 370 72 C 371.10457 72 372 72.89543 372 74 L 372 274 C 372 275.10457 371.10457 276 370 276 L -22 276 C -23.10457 276 -24 275.10457 -24 274 L -24 74 C -24 72.89543 -23.10457 72 -22 72 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-24 76)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="149.83594" y="7">TokenMe Cloud Server</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="135.38672" y="16">(collection of containers)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1282">
+        <path d="M 122 168 L 226 168 C 227.10457 168 228 168.89543 228 170 L 228 202 C 228 203.10457 227.10457 204 226 204 L 122 204 C 120.89543 204 120 203.10457 120 202 L 120 170 C 120 168.89543 120.89543 168 122 168 Z" fill="#ffc"/>
+        <path d="M 122 168 L 226 168 C 227.10457 168 228 168.89543 228 170 L 228 202 C 228 203.10457 227.10457 204 226 204 L 122 204 C 120.89543 204 120 203.10457 120 202 L 120 170 C 120 168.89543 120.89543 168 122 168 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(124 177)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="25.91797" y="7">API-server</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="16">(code: Node.js)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1386">
+        <path d="M 122 228 L 226 228 C 227.10457 228 228 228.89543 228 230 L 228 262 C 228 263.10457 227.10457 264 226 264 L 122 264 C 120.89543 264 120 263.10457 120 262 L 120 230 C 120 228.89543 120.89543 228 122 228 Z" fill="white"/>
+        <path d="M 122 228 L 226 228 C 227.10457 228 228 228.89543 228 230 L 228 262 C 228 263.10457 227.10457 264 226 264 L 122 264 C 120.89543 264 120 263.10457 120 262 L 120 230 C 120 228.89543 120.89543 228 122 228 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(124 237)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="7">Database-server</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="16.285156" y="16">(app: MongoDB)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1387">
+        <path d="M 254 228 L 358 228 C 359.10457 228 360 228.89543 360 230 L 360 262 C 360 263.10457 359.10457 264 358 264 L 254 264 C 252.89543 264 252 263.10457 252 262 L 252 230 C 252 228.89543 252.89543 228 254 228 Z" fill="white"/>
+        <path d="M 254 228 L 358 228 C 359.10457 228 360 228.89543 360 230 L 360 262 C 360 263.10457 359.10457 264 358 264 L 254 264 C 252.89543 264 252 263.10457 252 262 L 252 230 C 252 228.89543 252.89543 228 254 228 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(256 237)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="7">Database-viewer</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="1.8359375" y="16">(app: mongo-express)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1388">
+        <path d="M -10 168 L 94 168 C 95.10457 168 96 168.89543 96 170 L 96 202 C 96 203.10457 95.10457 204 94 204 L -10 204 C -11.10457 204 -12 203.10457 -12 202 L -12 170 C -12 168.89543 -11.10457 168 -10 168 Z" fill="white"/>
+        <path d="M -10 168 L 94 168 C 95.10457 168 96 168.89543 96 170 L 96 202 C 96 203.10457 95.10457 204 94 204 L -10 204 C -11.10457 204 -12 203.10457 -12 202 L -12 170 C -12 168.89543 -11.10457 168 -10 168 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(-8 177)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="16.285156" y="7">MQTT-collector</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="16">(code: Node.js)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1389">
+        <path d="M -10 228 L 94 228 C 95.10457 228 96 228.89543 96 230 L 96 262 C 96 263.10457 95.10457 264 94 264 L -10 264 C -11.10457 264 -12 263.10457 -12 262 L -12 230 C -12 228.89543 -11.10457 228 -10 228 Z" fill="white"/>
+        <path d="M -10 228 L 94 228 C 95.10457 228 96 228.89543 96 230 L 96 262 C 96 263.10457 95.10457 264 94 264 L -10 264 C -11.10457 264 -12 263.10457 -12 262 L -12 230 C -12 228.89543 -11.10457 228 -10 228 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(-8 237)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="28.326172" y="7">Simulator</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="16">(code: Node.js)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1390">
+        <path d="M 254 108 L 358 108 C 359.10457 108 360 108.89543 360 110 L 360 142 C 360 143.10457 359.10457 144 358 144 L 254 144 C 252.89543 144 252 143.10457 252 142 L 252 110 C 252 108.89543 252.89543 108 254 108 Z" fill="#d9ffd9"/>
+        <path d="M 254 108 L 358 108 C 359.10457 108 360 108.89543 360 110 L 360 142 C 360 143.10457 359.10457 144 358 144 L 254 144 C 252.89543 144 252 143.10457 252 142 L 252 110 C 252 108.89543 252.89543 108 254 108 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(256 117)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="11.46875" y="7">Dashboard-server</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="11.46875" y="16">(code: React.js)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1391">
+        <path d="M 122 108 L 226 108 C 227.10457 108 228 108.89543 228 110 L 228 142 C 228 143.10457 227.10457 144 226 144 L 122 144 C 120.89543 144 120 143.10457 120 142 L 120 110 C 120 108.89543 120.89543 108 122 108 Z" fill="white"/>
+        <path d="M 122 108 L 226 108 C 227.10457 108 228 108.89543 228 110 L 228 142 C 228 143.10457 227.10457 144 226 144 L 122 144 C 120.89543 144 120 143.10457 120 142 L 120 110 C 120 108.89543 120.89543 108 122 108 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(124 117)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="25.91797" y="7">Web-server</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="18.69336" y="16">(app: Apache)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_1392">
+        <path d="M 254 168 L 358 168 C 359.10457 168 360 168.89543 360 170 L 360 202 C 360 203.10457 359.10457 204 358 204 L 254 204 C 252.89543 204 252 203.10457 252 202 L 252 170 C 252 168.89543 252.89543 168 254 168 Z" fill="white"/>
+        <path d="M 254 168 L 358 168 C 359.10457 168 360 168.89543 360 170 L 360 202 C 360 203.10457 359.10457 204 358 204 L 254 204 C 252.89543 204 252 203.10457 252 202 L 252 170 C 252 168.89543 252.89543 168 254 168 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(256 177)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="16.285156" y="7">FlexVPN-server</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="16">(code: Node.js)</tspan>
+        </text>
+      </g>
+      <g id="Line_1393">
+        <line x1="228.75" y1="246" x2="251.25" y2="246" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_1394">
+        <line x1="174" y1="204.75" x2="174" y2="227.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_1395">
+        <line x1="96.75" y1="186" x2="120" y2="186" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_1396">
+        <line x1="96" y1="246" x2="120" y2="186" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_1397">
+        <line x1="174" y1="144.75" x2="174" y2="167.25" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_1398">
+        <line x1="251.25" y1="186" x2="228" y2="186" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_1399">
+        <line x1="251.25" y1="126" x2="228" y2="126" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_1400">
+        <path d="M -10 108 L 94 108 C 95.10457 108 96 108.89543 96 110 L 96 142 C 96 143.10457 95.10457 144 94 144 L -10 144 C -11.10457 144 -12 143.10457 -12 142 L -12 110 C -12 108.89543 -11.10457 108 -10 108 Z" fill="white"/>
+        <path d="M -10 108 L 94 108 C 95.10457 108 96 108.89543 96 110 L 96 142 C 96 143.10457 95.10457 144 94 144 L -10 144 C -11.10457 144 -12 143.10457 -12 142 L -12 110 C -12 108.89543 -11.10457 108 -10 108 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <text transform="translate(-8 117)" fill="black">
+          <tspan font-family="Menlo" font-size="8" fill="black" x="25.91797" y="7">Anchor-mux</tspan>
+          <tspan font-family="Menlo" font-size="8" fill="black" x="13.876953" y="16">(code: Node.js)</tspan>
+        </text>
+      </g>
+      <g id="Line_1401">
+        <line x1="96" y1="126" x2="120" y2="186" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

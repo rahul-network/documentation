@@ -1,0 +1,97 @@
+/* index.css */
+/* JDG-NOTE: ==> this file index.css is NOT USED !! Please use the inline CSS in index.html <== */
+.mono {
+  font-family: monospace;
+  color: blue;
+}
+.monopre {
+  border: solid 1px blue;
+  border-radius: 2px;
+  padding: 6px;
+  font-family: monospace;
+}
+.focus {
+  color: orange;
+}
+.js {
+  border: solid 1px blue;
+  border-radius: 2px;
+  padding: 6px;
+}
+/* - - - */
+a {
+  text-decoration: none !important;
+  color: #ff2f92;
+}
+/* a.mono:link     {color:blue !important;}    
+a.mono:visited  {color:blue !important;}    
+a.mono:hover    {color:#FF00FF !important;} 
+a.mono:active   {color:blue !important;}     */
+section a:link {
+  color: #ff2f92 !important;
+} /* #FF2F92 = Omnigraffle Strawberry */
+section a:visited {
+  color: #ff2f92 !important;
+}
+section a:hover {
+  color: #ff2f92 !important;
+  background: #ffa !important;
+} /* #FF00FF */
+section a:active {
+  color: #ff2f92 !important;
+}
+/* a:link     {color:blue !important;}    / * unvisited link */
+/* a:visited  {color:blue !important;}    / * visited link */
+/* a:hover    {color:#FF00FF !important;} / * mouse over link */
+/* a:active   {color:blue !important;}    / * selected link */
+/* a[target="_blank"]:after {
+   / * content: " (external)"; * /
+   / * font-family: 'FontAwesome';
+   content: " \f35d"; * /
+   / * content: " \2197"; * /
+   content: " [\2197]";
+   / * content: " \25F3"; * /
+   / * content: " <span class=\"glyphicon glyphicon-new-window\"></span>"; * /
+ } */
+/* a[target="_blank"]:after.arrow { content: " \25F3"; } */
+/* a:after.arrow { content: " \25F3"; } */
+/* a[target="_new"] { text-decoration: none !important; } */
+/* a:after {content: " [\2197]";} */
+/* section a:before {content: "> ";} */
+/* section a:after {content: " [web]";} */
+/*
+  a::after {content: " [\2197]";}
+  a::after.self-link {content: "";}
+*/
+/* - - - */
+td {
+  vertical-align: top;
+}
+pre {
+  border: 1px solid #ff2f92;
+  border-radius: 4px;
+  padding: 4px;
+}
+code {
+  background: #eee;
+  padding: 1px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  padding: 7px;
+  border: #4e95f4 1px solid;
+}
+tr {
+  background: #b8d1f3;
+}
+tr:nth-child(odd) {
+  background: #b8d1f3;
+}
+tr:nth-child(even) {
+  background: #dae5f4;
+}
+/* #-EOF */
